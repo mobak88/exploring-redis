@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "redis": "^4.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "name": "lesson-six",
+  "version": "1.0.0",
+  "description": "Working with redis",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mustafa Baker",
+  "license": "ISC"
+}
